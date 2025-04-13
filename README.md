@@ -21,4 +21,4 @@ It helps automate common development tasks like building, formatting, and runnin
 You can clone or download this repo to use the Makefile in your project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Alireza-Morady/make-config-go.git
