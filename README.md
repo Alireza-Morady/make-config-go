@@ -22,5 +22,6 @@ You can clone or download this repo to use the Makefile in your project:
 
 ```bash
 git clone https://github.com/Alireza-Morady/make-config-go.git
+,,,
 
 ### 🛠️ 2. Initialize a Go Module
