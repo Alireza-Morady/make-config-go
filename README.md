@@ -79,7 +79,7 @@ Now that everything is set up, you can run any of the commands listed in the Mak
 ```
 make build
 ```
-Or to execute the program and do every commands instruct:
+Or to execute the program and run every your makefile commands:
 ```
 make
 ```
