@@ -1,2 +1,24 @@
-# make-config-go
-A tutorial repository on how to use Makefile with Go projects. This repository demonstrates how to manage build automation and workflows in Go using Makefile.A tutorial repository on how to use Makefile with Go projects. This repository demonstrates how to manage build automation and workflows in Go using Makefile.
+# 📦 Go Makefile Tutorial
+
+This repository provides a simple, clean `Makefile` for Go projects.  
+It helps automate common development tasks like building, formatting, and running your Go programs.
+
+---
+
+## 🛠️ Features
+
+- `make fmt` – Format all Go files
+- `make vet` – Run `go vet` to find suspicious constructs
+- `make build` – Compile the code and create a binary
+- `make clean` – Clean up compiled files
+- `make execute` – Build and run the program
+
+---
+
+## 🚀 How to Use
+
+### 🔧 1. Clone the Repo
+You can clone or download this repo to use the Makefile in your project:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
