@@ -61,6 +61,7 @@ brew install make
 ```
 
 For Windows:
+
 1.Download and install **Gow** (GNU on Windows) from [Gow's official website](https://github.com/bmatzelle/gow/releases).
 2.fter installation, make will be available from your command prompt.
 
