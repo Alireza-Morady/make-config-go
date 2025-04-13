@@ -49,6 +49,7 @@ Once you've added the Makefile and initialized the Go module, the following comm
 
 ### 💻 3. Installing Make (If Not Already Installed)
 If your system doesn't have make installed, you can install it based on your operating system:
+
 For Linux:
 ```bash
 sudo apt update
